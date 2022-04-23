@@ -10,5 +10,5 @@ Você pode digitar qualquer número, no campo de cadastro.
 Ao apertar o botão "Gerar tabuada", sera gerado uma tabuada com o número cadastrado.
 
 <p align="center">
- <img width="460" height="300" src="C:\Users\jonas\Downloads\Arquivos\Programação\Projetos\Projetos-b-sicos-de-JS\Encontrar_Selecionar-master\src\gif.gif">
+ <img width="460" height="300" src="https://github.com/jonasmelo74/Projetos-basicos-de-JS/blob/main/Encontrar_Selecionar-master/src/gif.gif">
 </p>
